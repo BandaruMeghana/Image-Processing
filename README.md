@@ -10,3 +10,9 @@ This folder contains .py scripts to enable modularization of the code.
 The notebooks are numbered in order for easy reference. 
 ### outpus:
 This folder contains few output images that are saved on disk
+
+## packages-versions
+python==3.7.4
+opencv-python==4.2.0.34
+numpy==1.16.5
+matplotlib==3.1.3

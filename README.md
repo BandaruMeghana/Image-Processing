@@ -8,7 +8,7 @@ This folder contains the images to play around.
 This folder contains .py scripts to enable modularization of the code. 
 ### notebooks:
 The notebooks are numbered in order for easy reference. 
-### outpus:
+### outputs:
 This folder contains few output images that are saved on disk
 
 ## packages-versions
